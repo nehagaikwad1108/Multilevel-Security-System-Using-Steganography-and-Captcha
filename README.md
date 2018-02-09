@@ -11,7 +11,7 @@ The  project aims to block unauthorized use, improve security of the hidden mess
 # Screenshots
 
 
-![0](https://user-images.githubusercontent.com/32076573/36005676-c495a79c-0d06-11e8-8fe9-1158e5299031.png)/
+![0](https://user-images.githubusercontent.com/32076573/36005676-c495a79c-0d06-11e8-8fe9-1158e5299031.png)
 
 ![1](https://user-images.githubusercontent.com/32076573/36005672-bef39e66-0d06-11e8-935e-3fbd85553741.png)
 
